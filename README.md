@@ -50,7 +50,7 @@ We used **ARIMA (AutoRegressive Integrated Moving Average)**, a popular method f
 
 #### Key Insights:
 - The **ARIMA model** helped us account for trends and autocorrelations in the gold price time series.
-- After fine-tuning the model using the **AIC (Akaike Information Criterion)**, the optimal ARIMA order was selected as **(p,d,q)**.
+- After fine-tuning the model using the **AIC (Akaike Information Criterion)**, the optimal ARIMA order was selected as **(3,1,3)**.
 - The forecast from ARIMA showed promising results, with a **low MAPE** indicating good prediction accuracy.
 
 ### Model Performance 📊
