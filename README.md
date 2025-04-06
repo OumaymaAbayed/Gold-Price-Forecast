@@ -38,7 +38,7 @@ A **Linear Regression** model was built to predict the future gold price based o
 - **Training set**: 90% of the data
 - **Testing set**: Remaining 10%
 
-The model achieved an **MAE (Mean Absolute Error)** of **X**, **MSE (Mean Squared Error)** of **Y**, and a **MAPE (Mean Absolute Percentage Error)** of **Z%**.
+The model achieved an **MAE (Mean Absolute Error)** of **0.0228**, **MSE (Mean Squared Error)** of **0.00086**, and a **MAPE (Mean Absolute Percentage Error)** of **3.16%**.
 
 #### Key Interpretation:
 - The **MAPE** value of **3.16%** indicates that on average, the model's predictions are **96.84% accurate**.
